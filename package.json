@@ -1,0 +1,12 @@
+{
+  "name": "sdaw_project",
+  "version": "1.0.0",
+  "description": "Proyecto SDAW de control de versiones con Git y Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
