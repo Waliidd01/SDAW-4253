@@ -1,11 +1,11 @@
-# Proyecto SDAW_1234
+# Proyecto SDAW_4253
 
 ## Descripción
 Este proyecto consiste en una pequeña aplicación web que muestra un mensaje de saludo al usuario y se sirve mediante un servidor local con Node.js y Express.
 
 ## Estructura del proyecto
 ```
-/SDAW_1234
+/SDAW_4253
 ├── index.html
 ├── script.js
 ├── package.json
